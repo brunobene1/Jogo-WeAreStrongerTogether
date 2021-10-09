@@ -1,7 +1,8 @@
-# WeAreStrongerTogether
+# WeAreStrongerTogether   
 Game made for the Brackeys Game Jam 2021.1.  
-This game was made using the Unity3D game engine.  
-All the code an the assets were made by me.  
+Realese date : 21/02/2021  
+This game was made using the Unity3D game engine.    
+All the code an the assets were made by me.    
 Play now on the browser : https://brunobene.itch.io/wearestrongertogether
 # Sreenshots  
 ![SS1](https://user-images.githubusercontent.com/85142097/136669011-047d45d5-ac41-4ee3-beee-af655804184e.png)
